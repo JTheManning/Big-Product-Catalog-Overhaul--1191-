@@ -1,0 +1,43 @@
+"Guid","ContactId","IsPrimary","Role"
+035f4a1e-5fb0-413c-8971-8590955d1b89,379f88c5-1df4-41aa-aafd-ae0919e27873,true,"#N/A"
+0c5092a9-1764-42d3-b39d-762b78e981e9,2164de45-e04c-4f06-b7a4-ad007a5fba6f,true,Business User
+0cae41ed-2b44-4b33-b4fe-2ab4250ca3bd,b4b1ba81-29d6-4d18-88d6-8d7b27e7ce72,true,Business User
+15db8209-fe73-43f0-842b-a8b8dc68ae31,a7b4ca1d-151d-403c-a18a-37ddcaac4495,true,Business User
+1a0f76cc-3e5b-475b-b622-c347392f7b91,55d96f23-e9d0-4809-af39-33c0cc8a2b9d,true,Technical Buyer
+21fd8a4f-9eda-4b1c-9de8-431f148f11cd,4fa93bec-dec7-494d-9ac4-987f587d5659,false,Influencer
+256a614f-313f-4b50-8016-20e7a15d64d9,c458e752-3600-4a7b-995e-b5da465c3017,true,Technical Buyer
+2cbaa3b3-8c91-4e38-97e0-3a79f9843c16,bdf7246a-9d04-47ca-9880-041f4fd35d51,false,Business User
+37b3c760-3332-4135-bb04-e617574edd0e,e7d35871-9885-43c3-af12-d60b4a779a10,false,Decision Maker
+3d84ea75-0f96-41cc-b1a5-4e54b566ee61,9434e165-eb3f-4b8c-84d2-fc73be3ac652,false,Decision Maker
+4993a338-5c12-4dba-9735-a53f1adf3bd8,2d220735-6a4a-43df-b256-7eabde2922a1,true,Decision Maker
+52338056-295a-44c9-b1c3-eaa339492e9e,e7d35871-9885-43c3-af12-d60b4a779a10,false,Decision Maker
+52d37b82-3267-41d0-8ca6-c3da59d02e16,1544325c-b559-4909-97a6-f374fcfd02ea,true,Economic Buyer
+56e1078f-6113-4cc8-9bb9-0f0e4106cd0a,93c5d9a8-b580-465a-847a-23b7238e2c54,true,Decision Maker
+59fd2e12-2c61-4878-b335-bd7d02330d66,ddfaac68-e194-4c69-b8df-8cfdab52c300,false,Decision Maker
+630f683b-00bd-4494-93b4-1b0b23b50c5f,b01fcc56-7245-4095-9866-53ee35b83f95,true,"#N/A"
+6d51d96c-f61e-4915-a962-5ba2b84dab21,ddfaac68-e194-4c69-b8df-8cfdab52c300,false,Decision Maker
+733d2d07-48f1-4c7d-b436-7672e5da49b3,f9ee0135-a3f5-4457-997d-079f9b348913,false,Decision Maker
+771040f4-70ba-4adf-b02d-d9ce461c2fd7,d6487773-db1b-4d85-bb9d-53eb9f1f32ae,false,Business User
+9055171c-0d13-4570-bbde-6db738037cab,da57832e-d6a4-4af7-ae37-81595d34f264,false,Economic Decision Maker
+927f37b9-530e-4b94-aa49-3e44319ccaaf,3987c0b5-3bf1-4df8-a267-d21138f555a9,true,Decision Maker
+981859f6-cf02-4f99-a4bd-9bfa6c82f5b2,05484f3f-ce17-4c6b-9984-ec8d9950cbef,false,Economic Decision Maker
+9f7fc39d-5dbe-452d-bc6a-fc14091de50c,f0f7cafa-b694-43d3-970b-1c798cfe1bea,true,"#N/A"
+a35a93d5-89e4-4eeb-9b52-f03218466574,54562ae9-f975-42ae-b32a-797aa7a9e91e,false,Decision Maker
+aaf2a9f1-9577-4172-a9be-ae2a76300e3a,47b55848-6060-4939-8316-d144018adc7c,true,Decision Maker
+af1a7195-87cd-4cf2-88cc-e7167b603a31,c714155f-4499-4c74-966e-132c9b7f4077,true,Influencer
+b1cacae9-764d-491d-86c3-e6645011ab24,c458e752-3600-4a7b-995e-b5da465c3017,true,Technical Buyer
+ba2343e2-cab5-40ae-bc0a-3cd0cb1a349d,1d705067-ccb7-435c-b1cb-ebb452ff7b78,false,Influencer
+bb406e26-f52d-49f1-aa7f-04b866835414,f9ee0135-a3f5-4457-997d-079f9b348913,false,Decision Maker
+bbb5a31d-ea3d-4377-bc96-e5f494e33976,689ff1b6-dae3-4b6e-a1dc-7e4f102429dd,true,Decision Maker
+cacb0d66-e971-4e66-90d7-f539c5682b54,477ef011-59e4-48a0-9e0e-b2bae5b636e4,true,Decision Maker
+ce34f7e3-5bb0-46cb-a3da-9f95bac84bec,5bf556bf-8af3-467a-87fd-a6f6c4ebe775,true,Influencer
+d1607f96-223b-4996-94ec-127150a648de,ce2f9704-8ded-45db-b906-64520c11aa47,true,Decision Maker
+d5a4cab8-841a-49f1-bac0-986106cff799,f1c7816f-85fe-4e4c-bf7c-28ac9ac6b9db,true,Technical Buyer
+e4e46e45-3b18-412c-84c3-ba3cfecbfb1a,63a10fab-bb5f-4861-822f-aa4a45e25a91,false,Business User
+e4eb06c3-87e3-4e53-9a9d-e1fd4f49b68f,6e4745b9-c38f-4734-953f-9181287ac5f1,false,Decision Maker
+e654b3e2-3a0d-4f76-ad1d-20e9b5d926ad,5b20eb73-7bd3-4680-bad1-d184e5063632,true,Technical Buyer
+e96dc1af-8b19-43cd-ad49-33ed9f15535c,7195e915-4bc0-4ec8-9b97-455bc2e1f403,true,Economic Buyer
+e9925826-769c-47c0-80ae-88984dfbc8e6,e81213b8-be78-4c45-a731-bb4bd4297ee5,true,Decision Maker
+eb05fce3-a29a-40e4-8c61-25f5e9221fd7,e2fb3f8a-4363-40b8-bc1a-f5183083e920,true,Decision Maker
+f66f32c7-0b49-4d74-9c50-3365f8100ca8,05484f3f-ce17-4c6b-9984-ec8d9950cbef,false,Economic Decision Maker
+f9816086-a27e-4a66-bf07-d7c8d7e83171,6cb987bb-aa1d-432c-b732-bafefc048532,true,Decision Maker
